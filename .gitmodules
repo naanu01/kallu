@@ -1,7 +1,4 @@
 [submodule "mannu"]
 	path = mannu
 	url = https://github.com/naanu01/mannu.git
-	
-[submodule "new"]
-	path = mannu
-	url = https://github.com/naanu01/new.git
+
